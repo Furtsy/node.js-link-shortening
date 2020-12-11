@@ -1,0 +1,38 @@
+{
+  "name": "node.js-url-shortener",
+  "version": "0.0.1",
+  "description": "node.js-url-shortener",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "firebase": "^7.20.0",
+    "firebase-admin": "^9.1.1",
+    "is-url": "^1.2.4",
+    "moment": "^2.29.1",
+    "path": "^0.12.7",
+    "randomstring": "^1.1.5",
+    "dotenv-config": "^0.1.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+ "repository": {
+    "url": "https://github.com/Furtsy/node.js-link-shortening"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Furtsy",
+    "CodAre",
+    "node.js-url-shortener",
+    "node.js link shorter",
+    "node.js shorter"
+  ]
+}
